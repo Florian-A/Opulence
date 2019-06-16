@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=IP address change
+Name[fr]=Changement d'adresse IP
+Terminal=false
+Exec=bash -c '"$(dirname "$1")"/bash/start.bash xterm_change_ip' dummy %k
+Icon=package_games

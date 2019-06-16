@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Anonymous browser
+Name[fr]=Navigateur anonyme
+Terminal=false
+Exec=bash -c '"$(dirname "$1")"/bash/start.bash' dummy %k
+Icon=web-browser

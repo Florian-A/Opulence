@@ -1,0 +1,16 @@
+LOCAL_NOTIFICATION=Notification
+LOCAL_WARNING=Attention
+LOCAL_ERROR=Erreur
+LOCAL_INFORMATION=Information
+LOCAL_CHROMIUM=Le logiciel "chromium-brower" est absent !                     Veuillez vous authentifier avec votre compte super-administrateur pour continuer.
+LOCAL_WAN=La configuration du modem demande des autorisations spéciales !       Veuillez vous authentifier avec votre compte super-administrateur pour continuer.
+LOCAL_FIREWALL=La configuration du parfeu demande des autorisations spéciales !      Veuillez vous authentifier avec votre compte super-administrateur pourcontinuer.
+LOCAL_WAN_CONFIG=Configuration du modem ...
+LOCAL_WAN_NO_CON=Pas de connexion, nouvel essai dans 1 seconde!
+LOCAL_WAN_CHAN_IP=Changement de l'adresse IP ...
+LOCAL_WAN_SUCCESS=Connection établie.
+LOCAL_WAN_CHAN_IP_ERROR=Echec du changement de l'adresse IP !
+LOCAL_WAN_CHAN_IP_SUCCESS=Votre nouvelle adresse IP est: 
+LOCAL_FIREWALL_CONFIG=Configuration du pare-feu ...
+LOCAL_FIREWALL_SUCCESS=Pare-feu configuré.
+LOCAL_AUTH_FAILED=Echec d'authentification en super-administrateur!

@@ -1,0 +1,16 @@
+LOCAL_NOTIFICATION=Notification
+LOCAL_WARNING=Warning
+LOCAL_ERROR=Error
+LOCAL_INFORMATION=Information
+LOCAL_CHROMIUM=Missing software ! For install "chromium-brower" please login with super-user account.
+LOCAL_WAN=Modem configuration need special authorizations !                     Please login with your super-user account to continue.
+LOCAL_FIREWALL=Firewall configuration need special authorizations !                  Please login with your super-user account to continue.
+LOCAL_WAN_CONFIG=Modem configuration ...
+LOCAL_WAN_NO_CON=No connection, retrying in 1 seconde !
+LOCAL_WAN_CHAN_IP=Changing IP address ...
+LOCAL_WAN_SUCCESS=Connection established !
+LOCAL_WAN_CHAN_IP_ERROR=Failed to change the IP address !
+LOCAL_WAN_CHAN_IP_SUCCESS=Your new IP address is: 
+LOCAL_FIREWALL_CONFIG=Firewall configuration ...
+LOCAL_FIREWALL_SUCCESS=Firewall configured.
+LOCAL_AUTH_FAILED=Authentication failed with super-user account !
