@@ -18,7 +18,7 @@ Doit être installé sur le système (idéalement un Debian 9 ou plus), les prog
 
 **Pour utiliser les fonctionnalités 3G/4G qui permettent de changer rapidement d'adresse IPv4 vous devez vous munir d'un modem ou routeur configurable par des requêtes cURL.**
 
-La plus part des modems et routeurs Huawei 4G le sont. 
+La plupart des modems et routeurs Huawei 4G le sont. 
 Opulence a été développé pour un [Huawei E3372](https://consumer.huawei.com/en/mobile-broadband/e3372/specs/ "Huawei E3372").
 
 ##### Configuration
