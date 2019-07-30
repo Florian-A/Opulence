@@ -1,4 +1,7 @@
 # Opulence
+
+![](./opulence_icon.jpg)
+
 Opulence est une petite suite de scripts Bash dont le but est de faciliter l'anonymisation de la navigation.
 
 ### Fonctionnement
